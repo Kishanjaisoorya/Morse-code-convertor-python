@@ -7,7 +7,7 @@ This Python program converts regular text into Morse code. It utilizes a diction
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/Kishanjaisoorya/Morse-code-convertor-python.git
+   git clone https://github.com/Kishanjaisoorya/Morse-code-converter-python.git
    ```
 
 2. Navigate to the project directory:
